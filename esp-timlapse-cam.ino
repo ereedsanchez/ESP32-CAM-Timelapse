@@ -58,13 +58,13 @@
 
 
 // Wi-Fi settings
-#define WIFI_SSID "Edwin-iPhone-11" //"Unifi950" //"MikroTik2"//"NET-MESH-FOREST"
-#define WIFI_PASSWORD "18242424"//"Caterpillar" //"STEPstep"//B4r3f2c1!+"
+#define WIFI_SSID "YOURSSID"
+#define WIFI_PASSWORD "YOUR PASS"
 
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
-#define AUTHOR_EMAIL "forestbuddy23@gmail.com"
-#define AUTHOR_PASSWORD "sjbkodvkepopgukq"
+#define AUTHOR_EMAIL "YOUREMAIL"
+#define AUTHOR_PASSWORD "YOURPASS"
 
 // CONSTANTS
 // GPIO Pin 33 is small red LED near to RESET button on the back of the board
